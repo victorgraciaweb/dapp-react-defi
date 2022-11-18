@@ -1,5 +1,5 @@
 # dapp-react-defi
-Dapp developed with solidity, Ganache and Truffle in Ethereum blockchain 
+Dapp developed with Solidity, React, Ganache and Truffle in Ethereum blockchain 
 
 How to run?
 --
