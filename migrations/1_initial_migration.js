@@ -20,5 +20,5 @@ module.exports = async function(deployer, network, accounts) {
     await stellartToken.transfer(tokenFarm.address, '1000000000000000000000000')
 
     // Transferencia de los tokens para el Staking
-    await jamToken.transfer(accounts[1], '100000000000000000000')
+    //await jamToken.transfer(accounts[1], '100000000000000000000')
 }

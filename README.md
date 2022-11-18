@@ -10,7 +10,7 @@ How to run?
 
 2. Compile and migrate Smart Contract
 
-   `truffle migrate`
+   `truffle migrate --reset --all`
 
 3. Start server
 
@@ -19,3 +19,7 @@ How to run?
 4. Open App in browser
 
    localhost:3000
+
+5. Send StellartToken (By terminal).
+
+   `truffle exec scripts/issue-token.js`
