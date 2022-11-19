@@ -27,7 +27,7 @@ How to run?
 Deploy contracts in Binance Smart Chain Testnet (BSC)
 --
 
-1. Create file named ".secret" with secret key wallet in Root folder
+1. Edit file ".secret" with secret key wallet in Root folder
 
 2. Compile and migrate Smart Contract
 
