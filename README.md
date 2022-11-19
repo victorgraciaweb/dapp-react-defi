@@ -23,3 +23,20 @@ How to run?
 5. Send StellartToken (By terminal).
 
    `truffle exec scripts/issue-token.js`
+   
+Deploy contracts in Binance Smart Chain Testnet (BSC)
+--
+
+1. Create file named ".secret" with secret key wallet in Root folder
+
+2. Compile and migrate Smart Contract
+
+   `truffle migrate --reset --network bsc`
+
+Deploy contracts in Polygon Testnet (MATIC)
+--
+1. Create file named ".secret" with secret key wallet in Root folder
+
+2. Compile and migrate Smart Contract
+
+   `truffle migrate --reset --network polygon`
