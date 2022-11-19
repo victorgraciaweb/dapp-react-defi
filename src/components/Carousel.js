@@ -10,7 +10,7 @@ class MyCarousel extends Component {
         return (
             <Carousel>
                 <Carousel.Item>
-                    <a href='https://blockstellart.com'>
+                    <a href='https://victorgraciaweb.com'>
                         <img
                             className="d-block w-100"
                             src={img1}
@@ -19,7 +19,7 @@ class MyCarousel extends Component {
                     </a>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <a href='https://blockstellart.com'>
+                    <a href='https://victorgraciaweb.com'>
                         <img
                             className="d-block w-100"
                             src={img2}
@@ -28,7 +28,7 @@ class MyCarousel extends Component {
                     </a>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <a href='https://blockstellart.com'>
+                    <a href='https://victorgraciaweb.com'>
                         <img
                             className="d-block w-100"
                             src={img3}
@@ -37,7 +37,7 @@ class MyCarousel extends Component {
                     </a>
                 </Carousel.Item>
                 <Carousel.Item>
-                    <a href='https://blockstellart.com'>
+                    <a href='https://victorgraciaweb.com'>
                         <img
                             className="d-block w-100"
                             src={img4}
