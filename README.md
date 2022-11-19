@@ -10,7 +10,7 @@ How to run?
 
 2. Compile and migrate Smart Contract
 
-   `truffle migrate --reset --all`
+   `truffle migrate --reset`
 
 3. Start server
 
@@ -35,7 +35,7 @@ Deploy contracts in Binance Smart Chain Testnet (BSC)
 
 Deploy contracts in Polygon Testnet (MATIC)
 --
-1. Create file named ".secret" with secret key wallet in Root folder
+1. Edit file ".secret" with secret key wallet in Root folder
 
 2. Compile and migrate Smart Contract
 
@@ -43,6 +43,6 @@ Deploy contracts in Polygon Testnet (MATIC)
 
 Testing
 --
-2. Testing Smart Contracts
+1. Testing Smart Contracts
 
    `truffle test`
