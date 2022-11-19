@@ -40,3 +40,9 @@ Deploy contracts in Polygon Testnet (MATIC)
 2. Compile and migrate Smart Contract
 
    `truffle migrate --reset --network polygon`
+
+Testing
+--
+2. Testing Smart Contracts
+
+   `truffle test`
